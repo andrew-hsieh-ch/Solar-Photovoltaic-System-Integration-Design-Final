@@ -6,6 +6,6 @@ Final program for Solar Photovoltaic Ststem Integration class
 4. Summing up LOF in each timeframe
 5. using plotly to visualize the result to make it readable
 
-
+data_1228_1.xlsx is the realtime data from a Solar farm based in Hsinchu, Taiwan.
 
 Jan.14 2022
